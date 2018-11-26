@@ -28,3 +28,7 @@
     this.productList.splice(index,1);
     
 8.全局过滤器 Vue.filter("filterFuncName",function(){})
+
+完成后可以算是Vue学习的初级水平
+
+已练习完成。zhaoyu 
