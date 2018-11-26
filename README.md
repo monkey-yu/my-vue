@@ -1,7 +1,9 @@
 该项目是本地项目。项目学习来源于慕课网的课程。
 知识点罗列：
 1.v-bind:class="{'check':item.ischecked}"
+
 2.click两种写法： @click   v-on:click 
+
 3.过滤器的使用 {{item.productPrice | formatMoney}}
 4.  局部过滤器
     filters:{
