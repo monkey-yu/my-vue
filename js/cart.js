@@ -74,8 +74,7 @@ var vm = new Vue({
     mounted:function(){
         this.$nextTick(function(){
             vm.cartView()
-        })
-        
+        })      
     },
     methods:{
       // 获取数据
